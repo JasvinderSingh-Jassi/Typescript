@@ -1,0 +1,23 @@
+var myNum = 1; //0.5,00.5 etc
+console.log(myNum);
+var myNumber;
+myNumber = 1;
+console.log(myNumber);
+var myStr;
+myStr = "Hello Guys";
+console.log(myStr);
+var myBool;
+myBool = true;
+console.log(myBool);
+var myAnyType;
+myAnyType = "Kuch Bhe";
+console.log(myAnyType);
+var arrStr;
+arrStr = ["Hello", "Hi"];
+console.log(arrStr);
+var arrNum;
+arrNum = [1, 2, 3, 4, 5];
+console.log(arrNum);
+var anytype;
+anytype = "Check this out";
+console.log(anytype);
